@@ -18,4 +18,6 @@
 
 
 ## 📌 주요 기능
-#### 다운 ===>  https://drive.google.com/file/d/10SKBagkO7X3penUfDUJL4HnhxtQLyHHW/view
+#### 자잘한 버그 수정중입니다.
+#### 맵 추가 예정입니다.
+#### 다운하고 플레이해보세요! ===>  https://drive.google.com/file/d/10SKBagkO7X3penUfDUJL4HnhxtQLyHHW/view
