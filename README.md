@@ -18,4 +18,4 @@
 
 
 ## 📌 주요 기능
-#### 추가예정입니다
+#### 다운 ===>  https://drive.google.com/file/d/10SKBagkO7X3penUfDUJL4HnhxtQLyHHW/view
