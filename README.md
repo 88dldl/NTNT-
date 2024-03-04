@@ -9,9 +9,9 @@
 * 23.07.01~23.08.21
 
 ### 🧑‍🤝‍🧑 맴버구성
- - 팀장  : 최숙희 - 
- - 팀원1 : 김솔미 - 
-
+| **최숙희** | **김솔미** |
+| :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/110217133?v=4" height=100 width=100> <br/> @88dldl](https://github.com/88dldl) | [<img src="https://avatars.githubusercontent.com/u/87332713?v=4" height=100 width=100> <br/> @solmee](https://github.com/solmee) |
 ### ⚙ 개발 환경
 - `C#`
 - `Unity`
