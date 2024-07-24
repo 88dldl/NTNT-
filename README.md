@@ -16,7 +16,14 @@
 - `C#`
 - `Unity`
 
+<br>
 
-## 📌 주요 기능
-#### 버그 수정중입니다.
-#### 맵 추가 예정입니다.
+## 🎞️시연영상
+https://github.com/user-attachments/assets/d7d75e61-3ec2-4c2e-a165-635f32741e64
+
+
+<br>
+
+## 📌 다운링크 
+https://drive.google.com/file/d/10SKBagkO7X3penUfDUJL4HnhxtQLyHHW/view
+
